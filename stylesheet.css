@@ -1,1 +1,21 @@
-
+body
+{
+    background: #51776D; color: skyblue;
+}
+a{
+    font-size: 24px;
+}
+h2
+{
+text-align: center;
+}
+.left
+{float: left;
+display: block;
+margin-left: 250px;}
+.right
+{float: right;
+display: block;
+margin-right: 250px;}
+#notes{float: left;
+clear:right;}
